@@ -8,25 +8,27 @@ Viele Jahre lang habe ich Zeit damit verbracht, die Star-Drift-Methode für die 
 
 Wenn man die fotografische Methode der Ausrichtung an die neuere Technologie wie CCD-Kameras und DSLR-Kameras anpasst, kann man eine genaue Ausrichtung in nur wenigen Minuten statt in Stunden oder Tagen erreichen.
 
-So gehen Sie vor: stellen Sie Ihr Teleskop auf und richten Sie es normal aus.
+So gehen Sie vor: 
+
+1. Stellen Sie Ihr Teleskop auf und richten Sie es normal aus.
 
 ## Azimuth (horizontale Einstellung)
 
-2.  Stellen Sie Ihr Teleskop so ein, dass es genau nach Süden und auf 0 Grad DEC zeigt.
+2. Stellen Sie Ihr Teleskop so ein, dass es genau nach Süden und auf 0 Grad DEC zeigt.
 
-3.  Suchen Sie einen halbhellen Stern.  Ein Stern der 6. Größenklasse eignet sich hervorragend, aber auch ein hellerer Stern kann verwendet werden.
+3. Suchen Sie einen halbhellen Stern.  Ein Stern der 6. Größenklasse eignet sich hervorragend, aber auch ein hellerer Stern kann verwendet werden.
 
-4.  Setzen Sie Ihre CCD- oder DSLR-Kamera in den Okularhalter ein oder befestigen Sie sie über den T-Adapter.
+4. Setzen Sie Ihre CCD- oder DSLR-Kamera in den Okularhalter ein oder befestigen Sie sie über den T-Adapter.
 
-5.  Stellen Sie den Stern für die CCD- oder DSLR-Kamera scharf.
+5. Stellen Sie den Stern für die CCD- oder DSLR-Kamera scharf.
 
-6.  Sobald der Stern fokussiert ist, bewegen Sie ihn auf die rechte Seite des Kamerasensors.
+6. Sobald der Stern fokussiert ist, bewegen Sie ihn auf die rechte Seite des Kamerasensors.
 
-7.  Stellen Sie Ihr Teleskop auf die niedrigste Antriebsgeschwindigkeit ein.  In der Regel ein Leitgeschwindigkeitsmodus.
+7. Stellen Sie Ihr Teleskop auf die niedrigste Antriebsgeschwindigkeit ein.  In der Regel ein Leitgeschwindigkeitsmodus.
 
-8.  Stellen Sie Ihre Kamerasoftware so ein, dass eine Belichtung von 125 Sekunden erfolgt.  Die ersten 5 Sekunden werden verwendet, um einen Referenzpunkt auf dem Bild zu erstellen.
+8. Stellen Sie Ihre Kamerasoftware so ein, dass eine Belichtung von 125 Sekunden erfolgt.  Die ersten 5 Sekunden werden verwendet, um einen Referenzpunkt auf dem Bild zu erstellen.
 
-9.  Sobald die ersten fünf Sekunden verstrichen sind, drücken Sie die Taste W auf der Teleskoptastatur, damit sich der Stern auf die gegenüberliegende Seite des Sensors bewegt.
+9. Sobald die ersten fünf Sekunden verstrichen sind, drücken Sie die Taste W auf der Teleskoptastatur, damit sich der Stern auf die gegenüberliegende Seite des Sensors bewegt.
 
 10. Bewegen Sie das Teleskop in der ersten Minute weiter nach Westen.  Sobald die erste Minute verstrichen ist, kehren Sie die Richtung des Teleskops sofort um.
 
