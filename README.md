@@ -1,6 +1,6 @@
 # D.A.R.V.
 
-**Anmerkung**: dies ist eine Übersetzung mit Hilfe eines Online-Übersetzers und manuellen Korrekturen des englischen Originalartikels von Robert Vice von https://www.cloudynights.com/articles/cat/articles/darv-drift-alignment-by-robert-vice-r2760 . Alle Rechte (auch der Bilder) liegen bei Robert Vice. Eine Vervielfältigung dieser Übersetzung oder Auszüge daraus sind daher nicht gestattet. Haftungsausschluss: Ich übernehme keine Verantwortung für Fehler, die durch die Verwendung dieser Übersetzung entstehen. Diese Seite ist nur für den persönlichen Gebrauch. 
+**Anmerkung**: dies ist eine detusche Übersetzung mit Hilfe eines Online-Übersetzers und manuellen Korrekturen des englischen Originalartikels von Robert Vice von https://www.cloudynights.com/articles/cat/articles/darv-drift-alignment-by-robert-vice-r2760 . Alle Rechte (auch der Bilder) liegen bei Robert Vice. Eine Vervielfältigung dieser Übersetzung oder Auszüge daraus sind daher nicht gestattet. Haftungsausschluss: Ich übernehme keine Verantwortung für Fehler, die durch die Verwendung dieser Übersetzung entstehen. Diese Seite ist nur für den persönlichen Gebrauch. 
 
 ## (DSLR / CCD Drift Alignment von Robert Vice) - Deutsche Übersetzung
 
@@ -91,6 +91,6 @@ Seien Sie also mutig und experimentieren Sie mit den Belichtungszeiten, um herau
 (Hinweis: Diese Methode wurde mit einem gabelmontierten Teleskop angewendet.  Diejenigen, die ein GEM verwenden, müssen andere Korrekturen vornehmen, aber diese Methode funktioniert auch mit ihnen und wird ihre Genauigkeit genauso erhöhen).
 
 Urheberrecht © 2003 - 2011
-Robert Vize
+Robert Vice
 
 Klicken Sie [hier](http://rcfotos.selfip.net/darv/DARV.pdf), um eine Kopie im PDF-Format herunterzuladen.
