@@ -40,6 +40,7 @@ Anmerkung durch den Übersetzer: Grundsätzlich verwendet die Methode
 9. Wenn die zweite Minute abgelaufen ist, hören Sie auf, das Teleskop zu bewegen.
 
 10. Nachdem das Bild heruntergeladen wurde, sollten Sie ein Bild erhalten, das dem untenstehenden ähnelt.
+
 ![image](https://github.com/apos/d_a_r_v/assets/456034/48e8a3ed-07aa-48c4-82b9-1adbc3d02c2e)
 
 Dies ist ein erstes Bild, das aufgenommen wurde.  Was Sie sehen, ist der Winkel der Abweichung. Wir versuchen, aus < [dem spitzen Winkel] eine durchgezogene Linie zu machen.  Um dies zu korrigieren, müssen wir einige Anpassungen am Azimut der Teleskopmontierung vornehmen.  Beachten Sie, dass der anfängliche Sternpunkt tiefer liegt als der Punkt, an dem die Aufnahme beendet wurde.  Dies zeigt uns, dass das Teleskop zu weit nach Westen ausgerichtet ist.  Um dies zu beheben, nehmen Sie eine **Korrektur an der Azimutsteuerung vor, um das Teleskop nach Osten zu bewegen**.
@@ -48,34 +49,41 @@ Dies ist ein erstes Bild, das aufgenommen wurde.  Was Sie sehen, ist der Winkel 
 11. **Führen Sie nun die gleichen Schritte erneut durch [bis die Linien exakt übereinstimmen]**.  Wenn das Bild heruntergeladen ist, sollte es zeigen, dass der Abweichungswinkel kleiner geworden ist.
 
 - Hier haben wir das zweite Bild aufgenommen.  Obwohl beide Bilder identisch aussehen, hat sich der Abweichungswinkel leicht verringert.  Ich muss weitere Korrekturen am Azimut vornehmen.
+
 ![image](https://github.com/apos/d_a_r_v/assets/456034/19b85bb7-23dd-4d24-b58d-3dd13a7a88c5)
 
 - Hier habe ich eine weitere Korrektur vorgenommen, und der Abweichungswinkel hat sich ein wenig verringert.  Muss aber noch einmal korrigiert werden.
+ 
 ![image](https://github.com/apos/d_a_r_v/assets/456034/cd5a7f20-51da-4e49-a64e-24757b35f393)
 
 
 - Hier sehen Sie die leichte Abnahme der Abweichung gegenüber dem letzten Bild.  Es müssen noch weitere Korrekturen vorgenommen werden.
+ 
 ![image](https://github.com/apos/d_a_r_v/assets/456034/928e4bf2-6f4b-488d-bcf2-527579f1f4b4)
 
 
 - Jetzt können Sie sehen, dass sich der Abweichungswinkel noch weiter verringert hat.  Wir werden weitere Korrekturen am Azimut vornehmen.
+
 ![image](https://github.com/apos/d_a_r_v/assets/456034/98b7636b-c3f9-4f0e-9386-e74cac3454bd)
 
 
 - Da wir weiterhin Korrekturen vornehmen, hat sich der Winkel der Abweichung stark verringert.  Wir sind jedoch noch nicht fertig.  Nehmen Sie noch einige weitere Korrekturen am Azimut vor.
+
 ![image](https://github.com/apos/d_a_r_v/assets/456034/5f8995dc-30bc-43e7-85df-457b063fec6a)
 
 - Here you can see we have almost eliminated the angle of deviation.  Make a few more corrections.
+
 ![image](https://github.com/apos/d_a_r_v/assets/456034/f66d3e1f-1a87-4c1c-a040-4ddc8008fb6a)
 
 
 - Hier sind wir fast fertig, aber es ist immer noch etwas daneben.  Ich werde eine weitere Korrektur vornehmen.
+
 ![image](https://github.com/apos/d_a_r_v/assets/456034/e13be248-b579-4119-a999-24ba3e5d0473)
 
 12. Das Endergebnis.
 Hier ist eine letzte Korrektur.  Der Sternenschweif ist eine einzelne durchgezogene Linie.  Der Abweichungswinkel ist jetzt 0.
-![image](https://github.com/apos/d_a_r_v/assets/456034/c9b0bb31-791b-4e2a-a8c8-d46173f728e2)
 
+![image](https://github.com/apos/d_a_r_v/assets/456034/c9b0bb31-791b-4e2a-a8c8-d46173f728e2)
 
 
 # Altitude (Einstellen der Höhe)
