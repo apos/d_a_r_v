@@ -74,7 +74,7 @@ Hier sind wir fast fertig, aber es ist immer noch etwas daneben.  Ich werde eine
 Hier ist eine letzte Korrektur.  Der Sternenschweif ist eine einzelne durchgezogene Linie.  Der Abweichungswinkel ist jetzt 0.
 
 # Altitude (Einstellen der Höhe)
-Sobald Sie den Azimut festgelegt haben, müssen Sie die Höhe festlegen.  Dazu stellen Sie das Teleskop einfach auf einen Stern am Ost- oder Westhorizont und auf 0 Grad Dez.
+Sobald Sie den Azimut festgelegt haben, müssen Sie die Höhe festlegen.  Dazu stellen Sie das Teleskop einfach auf einen Stern am Ost- oder Westhorizont und auf 0 Grad Declination.
 
 Der einzige Unterschied besteht darin, dass wir diesmal die Höhe und nicht das Azimut einstellen.  Die Bilder sind identisch, wenn Sie die Höhe einstellen.  Allerdings müssen Sie die Höhe entsprechend anpassen.  Hier müssen Sie die Höhe entweder erhöhen oder verringern, bis der Sternenschweif eine einzige durchgezogene Linie ist.  Wenn Sie das richtig machen, haben Sie ein sehr genau ausgerichtetes Teleskop. 
 
