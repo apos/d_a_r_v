@@ -1,6 +1,6 @@
 # D.A.R.V.
 
-**Anmerkung**: dies ist eine detusche Übersetzung mit Hilfe eines Online-Übersetzers und manuellen Korrekturen des englischen Originalartikels von Robert Vice von https://www.cloudynights.com/articles/cat/articles/darv-drift-alignment-by-robert-vice-r2760 . Alle Rechte (auch der Bilder) liegen bei Robert Vice. Eine Vervielfältigung dieser Übersetzung oder Auszüge daraus sind daher nicht gestattet. Haftungsausschluss: Ich übernehme keine Verantwortung für Fehler, die durch die Verwendung dieser Übersetzung entstehen. Diese Seite ist nur für den persönlichen Gebrauch. 
+**Anmerkung**: dies ist eine detusche Übersetzung mit Hilfe eines Online-Übersetzers und manuellen Korrekturen des englischen Originalartikels von Robert Vice von https://www.cloudynights.com/articles/cat/articles/darv-drift-alignment-by-robert-vice-r2760 . Es gab eine Änderung der Reihenfolge (Absatz "Vorbereitungen") und einige Ergänzungen (in eckiger Klammer), die jedoch keinerlei inhaltliche Änderungen mit sich bringt, lediglich strukturelle oder Ergänzungen darstellen. Alle Rechte (auch der Bilder) liegen bei Robert Vice. Eine Vervielfältigung dieser Übersetzung oder Auszüge daraus sind daher nicht gestattet. Haftungsausschluss: Ich übernehme keine Verantwortung für Fehler, die durch die Verwendung dieser Übersetzung entstehen. Diese Seite ist nur für den persönlichen Gebrauch. 
 
 ## (DSLR / CCD Drift Alignment von Robert Vice) - Deutsche Übersetzung
 
@@ -10,79 +10,88 @@ Wenn man die fotografische Methode der Ausrichtung an die neuere Technologie wie
 
 So gehen Sie vor: 
 
+## Vorbereitungen
+
 1. Stellen Sie Ihr Teleskop auf und richten Sie es normal aus.
+
+2. Setzen Sie Ihre CCD- oder DSLR-Kamera in den Okularhalter ein oder befestigen Sie sie über den T-Adapter.
+
+3. Stellen Sie den Stern für die CCD- oder DSLR-Kamera scharf.
+
+Anmerkung durch den Übersetzer: Grundsätzlich verwendet die Methode 
+
 
 ## Azimuth (horizontale Einstellung)
 
-2. Stellen Sie Ihr Teleskop so ein, dass es genau nach Süden und auf 0 Grad DEC zeigt.
+2. Stellen Sie Ihr Teleskop so ein, dass es **genau nach Süden und auf 0 Grad Deklination** zeigt.
 
 3. Suchen Sie einen halbhellen Stern.  Ein Stern der 6. Größenklasse eignet sich hervorragend, aber auch ein hellerer Stern kann verwendet werden.
 
-4. Setzen Sie Ihre CCD- oder DSLR-Kamera in den Okularhalter ein oder befestigen Sie sie über den T-Adapter.
+4. Sobald der Stern fokussiert ist, bewegen Sie ihn **auf die rechte Seite des Kamerasensors**.
 
-5. Stellen Sie den Stern für die CCD- oder DSLR-Kamera scharf.
+5. Stellen Sie Ihr Teleskop auf die niedrigste Antriebsgeschwindigkeit ein.  In der Regel ein Leitgeschwindigkeitsmodus.
 
-6. Sobald der Stern fokussiert ist, bewegen Sie ihn auf die rechte Seite des Kamerasensors.
+6. Stellen Sie Ihre Kamerasoftware so ein, dass eine **Belichtung von 125 Sekunden erfolgt**.  Die ersten 5 Sekunden werden verwendet, um einen Referenzpunkt auf dem Bild zu erstellen.
 
-7. Stellen Sie Ihr Teleskop auf die niedrigste Antriebsgeschwindigkeit ein.  In der Regel ein Leitgeschwindigkeitsmodus.
+7. Sobald die ersten fünf Sekunden verstrichen sind, **drücken Sie die Taste W (Westen)** auf der Teleskoptastatur, damit sich der Stern auf die gegenüberliegende Seite des Sensors bewegt. Bewegen Sie das Teleskop in der ersten Minute weiter nach Westen.  
 
-8. Stellen Sie Ihre Kamerasoftware so ein, dass eine Belichtung von 125 Sekunden erfolgt.  Die ersten 5 Sekunden werden verwendet, um einen Referenzpunkt auf dem Bild zu erstellen.
+8. **Sobald die erste Minute verstrichen ist, kehren Sie die Richtung des Teleskops sofort um[, und behalten die Bewegung nach Osten (Taste E) bis zum Ende der Aufnahme für die zweite Minute bei]**
 
-9. Sobald die ersten fünf Sekunden verstrichen sind, drücken Sie die Taste W auf der Teleskoptastatur, damit sich der Stern auf die gegenüberliegende Seite des Sensors bewegt.
+9. Wenn die zweite Minute abgelaufen ist, hören Sie auf, das Teleskop zu bewegen.
 
-10. Bewegen Sie das Teleskop in der ersten Minute weiter nach Westen.  Sobald die erste Minute verstrichen ist, kehren Sie die Richtung des Teleskops sofort um.
-
-11. Wenn die zweite Minute abgelaufen ist, hören Sie auf, das Teleskop zu bewegen.
-
-12. Nachdem das Bild heruntergeladen wurde, sollten Sie ein Bild erhalten, das dem untenstehenden ähnelt.
-
+10. Nachdem das Bild heruntergeladen wurde, sollten Sie ein Bild erhalten, das dem untenstehenden ähnelt.
 ![image](https://github.com/apos/d_a_r_v/assets/456034/48e8a3ed-07aa-48c4-82b9-1adbc3d02c2e)
 
-Dies ist ein erstes Bild, das aufgenommen wurde.  Was Sie sehen, ist der Winkel der Abweichung. Wir versuchen, aus < eine durchgezogene Linie zu machen.  Um dies zu korrigieren, müssen wir einige Anpassungen am Azimut der Teleskopmontierung vornehmen.  Beachten Sie, dass der anfängliche Sternpunkt tiefer liegt als der Punkt, an dem die Aufnahme beendet wurde.  Dies zeigt uns, dass das Teleskop zu weit nach Westen ausgerichtet ist.  Um dies zu beheben, nehmen Sie eine Korrektur an der Azimutsteuerung vor, um das Teleskop nach Osten zu bewegen.
+Dies ist ein erstes Bild, das aufgenommen wurde.  Was Sie sehen, ist der Winkel der Abweichung. Wir versuchen, aus < [dem spitzen Winkel] eine durchgezogene Linie zu machen.  Um dies zu korrigieren, müssen wir einige Anpassungen am Azimut der Teleskopmontierung vornehmen.  Beachten Sie, dass der anfängliche Sternpunkt tiefer liegt als der Punkt, an dem die Aufnahme beendet wurde.  Dies zeigt uns, dass das Teleskop zu weit nach Westen ausgerichtet ist.  Um dies zu beheben, nehmen Sie eine **Korrektur an der Azimutsteuerung vor, um das Teleskop nach Osten zu bewegen**.
 
-Führen Sie nun die gleichen Schritte erneut durch.  Wenn das Bild heruntergeladen ist, sollte es zeigen, dass der Abweichungswinkel kleiner geworden ist.
 
+11. **Führen Sie nun die gleichen Schritte erneut durch [bis die Linien exakt übereinstimmen]**.  Wenn das Bild heruntergeladen ist, sollte es zeigen, dass der Abweichungswinkel kleiner geworden ist.
+
+- Hier haben wir das zweite Bild aufgenommen.  Obwohl beide Bilder identisch aussehen, hat sich der Abweichungswinkel leicht verringert.  Ich muss weitere Korrekturen am Azimut vornehmen.
 ![image](https://github.com/apos/d_a_r_v/assets/456034/19b85bb7-23dd-4d24-b58d-3dd13a7a88c5)
 
-Hier haben wir das zweite Bild aufgenommen.  Obwohl beide Bilder identisch aussehen, hat sich der Abweichungswinkel leicht verringert.  Ich muss weitere Korrekturen am Azimut vornehmen.
-
+- Hier habe ich eine weitere Korrektur vorgenommen, und der Abweichungswinkel hat sich ein wenig verringert.  Muss aber noch einmal korrigiert werden.
 ![image](https://github.com/apos/d_a_r_v/assets/456034/cd5a7f20-51da-4e49-a64e-24757b35f393)
 
-Hier habe ich eine weitere Korrektur vorgenommen, und der Abweichungswinkel hat sich ein wenig verringert.  Muss aber noch einmal korrigiert werden.
 
+- Hier sehen Sie die leichte Abnahme der Abweichung gegenüber dem letzten Bild.  Es müssen noch weitere Korrekturen vorgenommen werden.
 ![image](https://github.com/apos/d_a_r_v/assets/456034/928e4bf2-6f4b-488d-bcf2-527579f1f4b4)
 
-Hier sehen Sie die leichte Abnahme der Abweichung gegenüber dem letzten Bild.  Es müssen noch weitere Korrekturen vorgenommen werden.
 
+- Jetzt können Sie sehen, dass sich der Abweichungswinkel noch weiter verringert hat.  Wir werden weitere Korrekturen am Azimut vornehmen.
 ![image](https://github.com/apos/d_a_r_v/assets/456034/98b7636b-c3f9-4f0e-9386-e74cac3454bd)
 
-Jetzt können Sie sehen, dass sich der Abweichungswinkel noch weiter verringert hat.  Wir werden weitere Korrekturen am Azimut vornehmen.
 
+- Da wir weiterhin Korrekturen vornehmen, hat sich der Winkel der Abweichung stark verringert.  Wir sind jedoch noch nicht fertig.  Nehmen Sie noch einige weitere Korrekturen am Azimut vor.
 ![image](https://github.com/apos/d_a_r_v/assets/456034/5f8995dc-30bc-43e7-85df-457b063fec6a)
 
-Da wir weiterhin Korrekturen vornehmen, hat sich der Winkel der Abweichung stark verringert.  Wir sind jedoch noch nicht fertig.  Nehmen Sie noch einige weitere Korrekturen am Azimut vor.
-
+- Here you can see we have almost eliminated the angle of deviation.  Make a few more corrections.
 ![image](https://github.com/apos/d_a_r_v/assets/456034/f66d3e1f-1a87-4c1c-a040-4ddc8008fb6a)
 
-Here you can see we have almost eliminated the angle of deviation.  Make a few more corrections.
 
+- Hier sind wir fast fertig, aber es ist immer noch etwas daneben.  Ich werde eine weitere Korrektur vornehmen.
 ![image](https://github.com/apos/d_a_r_v/assets/456034/e13be248-b579-4119-a999-24ba3e5d0473)
 
-Hier sind wir fast fertig, aber es ist immer noch etwas daneben.  Ich werde eine weitere Korrektur vornehmen.
-
+12. Das Endergebnis.
+Hier ist eine letzte Korrektur.  Der Sternenschweif ist eine einzelne durchgezogene Linie.  Der Abweichungswinkel ist jetzt 0.
 ![image](https://github.com/apos/d_a_r_v/assets/456034/c9b0bb31-791b-4e2a-a8c8-d46173f728e2)
 
 
-Hier ist eine letzte Korrektur.  Der Sternenschweif ist eine einzelne durchgezogene Linie.  Der Abweichungswinkel ist jetzt 0.
 
 # Altitude (Einstellen der Höhe)
-Sobald Sie den Azimut festgelegt haben, müssen Sie die Höhe festlegen.  Dazu stellen Sie das Teleskop einfach auf einen Stern am Ost- oder Westhorizont und auf 0 Grad Declination.
+Sobald Sie den Azimut festgelegt haben, müssen Sie die Höhe festlegen.  
 
-Der einzige Unterschied besteht darin, dass wir diesmal die Höhe und nicht das Azimut einstellen.  Die Bilder sind identisch, wenn Sie die Höhe einstellen.  Allerdings müssen Sie die Höhe entsprechend anpassen.  Hier müssen Sie die Höhe entweder erhöhen oder verringern, bis der Sternenschweif eine einzige durchgezogene Linie ist.  Wenn Sie das richtig machen, haben Sie ein sehr genau ausgerichtetes Teleskop. 
+13. Dazu stellen Sie das Teleskop einfach auf **einen Stern am Ost- oder Westhorizont und auf 0 Grad Deklination (DEC)**.
 
-Wenn Sie mit der Höheneinstellung fertig sind, gehen Sie zurück und überprüfen Sie die azimutale Ausrichtung.  Wenn alles in Ordnung ist, sind Sie fertig.
+14. Der einzige Unterschied besteht darin, dass wir diesmal die Höhe und nicht das Azimut einstellen.  Die Bilder sind identisch, wenn Sie die Höhe einstellen.  Allerdings müssen Sie die Höhe entsprechend anpassen.  Hier müssen Sie die Höhe entweder erhöhen oder verringern, bis der Sternenschweif eine einzige durchgezogene Linie ist.  
+
+# [Da Capo al fine]
+
+15. Wenn Sie mit der Höheneinstellung fertig sind, gehen Sie zurück und überprüfen Sie die azimutale Ausrichtung.  Wenn alles in Ordnung ist, sind Sie fertig.
 
 # Weitere Informationen
+
+Wenn Sie das richtig machen, haben Sie ein sehr genau ausgerichtetes Teleskop. 
 
 Die verwendeten Bilder sind eine zweiminütige Belichtung, die zu Demonstrationszwecken gemacht wurde.  Sie können die Belichtungszeit erhöhen, um die Genauigkeit zu verbessern.
 
