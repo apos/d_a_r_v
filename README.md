@@ -89,7 +89,7 @@ Hier ist eine letzte Korrektur.  Der Sternenschweif ist eine einzelne durchgezog
 # Altitude (Einstellen der Höhe)
 Sobald Sie den Azimut festgelegt haben, müssen Sie die Höhe festlegen.  
 
-13. Dazu stellen Sie das Teleskop einfach auf **einen Stern am Ost- oder Westhorizont und auf 0 Grad Deklination (DEC)**.
+13. Dazu stellen Sie das Teleskop einfach auf **einen Stern am Ost- oder Westhorizont und auf 0 Grad Deklination (DEC)**. 
 
 14. Der einzige Unterschied besteht darin, dass wir diesmal die Höhe und nicht das Azimut einstellen.  Die Bilder sind identisch, wenn Sie die Höhe einstellen.  Allerdings müssen Sie die Höhe entsprechend anpassen.  Hier müssen Sie die Höhe entweder erhöhen oder verringern, bis der Sternenschweif eine einzige durchgezogene Linie ist.  
 
