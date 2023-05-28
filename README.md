@@ -2,6 +2,8 @@
 
 **Anmerkung**: dies ist eine detusche Übersetzung mit Hilfe eines Online-Übersetzers und manuellen Korrekturen des englischen Originalartikels von Robert Vice von https://www.cloudynights.com/articles/cat/articles/darv-drift-alignment-by-robert-vice-r2760 . Es gab eine Änderung der Reihenfolge (Absatz "Vorbereitungen") und einige Ergänzungen (in eckiger Klammer), die jedoch keinerlei inhaltliche Änderungen mit sich bringt, lediglich strukturelle oder Ergänzungen darstellen. Alle Rechte (auch der Bilder) liegen bei Robert Vice. Eine Vervielfältigung dieser Übersetzung oder Auszüge daraus sind daher nicht gestattet. Haftungsausschluss: Ich übernehme keine Verantwortung für Fehler, die durch die Verwendung dieser Übersetzung entstehen. Diese Seite ist nur für den persönlichen Gebrauch. 
 
+Ich entwickle parallel ein Skript für Kstars, um dies für EKOS / INDI zu automatisieren: https://github.com/apos/kstars_scripts/tree/master 
+
 ## (DSLR / CCD Drift Alignment von Robert Vice) - Deutsche Übersetzung
 
 Viele Jahre lang habe ich Zeit damit verbracht, die Star-Drift-Methode für die Ausrichtung meines Teleskops zu erlernen.  Obwohl es mühsam ist, hat es sich als sehr nützlich erwiesen.  Nachdem ich jedoch Nacht für Nacht damit vergeudet habe, das Teleskop richtig auszurichten, habe ich einen einfacheren Weg der Ausrichtung gefunden.
